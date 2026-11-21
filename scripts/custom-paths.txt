@@ -1,0 +1,21 @@
+# Custom kildekode, som aldrig maa committes til RuneLite-repositoryet.
+runelite-client/src/main/java/net/runelite/client/plugins/AoeWarn
+runelite-client/src/main/java/net/runelite/client/plugins/CoxHelperMini
+runelite-client/src/main/java/net/runelite/client/plugins/FreezeTimersPlugin
+runelite-client/src/main/java/net/runelite/client/plugins/Playerhighlighter
+runelite-client/src/main/java/net/runelite/client/plugins/Playerlogger
+runelite-client/src/main/java/net/runelite/client/plugins/coxhelper
+runelite-client/src/main/java/net/runelite/client/plugins/gauntlethelper
+runelite-client/src/main/java/net/runelite/client/plugins/hallowedhelper
+runelite-client/src/main/java/net/runelite/client/plugins/hallowedsepulchre
+runelite-client/src/main/java/net/runelite/client/plugins/itempricesapi
+runelite-client/src/main/java/net/runelite/client/plugins/nex
+runelite-client/src/main/java/net/runelite/client/plugins/nightmare
+runelite-client/src/main/java/net/runelite/client/plugins/renderhighlighter
+runelite-client/src/main/java/net/runelite/client/plugins/toa
+runelite-client/src/main/java/net/runelite/client/plugins/truevision
+runelite-client/src/main/java/net/runelite/client/plugins/usernotifier
+runelite-client/src/main/java/net/runelite/client/plugins/yama
+runelite-client/src/main/resources/net/runelite/client/plugins/effecttimers
+runelite-client/src/main/resources/net/runelite/client/plugins/itempricesapi
+runelite-client/src/main/resources/net/runelite/client/plugins/playerlogger
